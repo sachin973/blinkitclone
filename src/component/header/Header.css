@@ -1,0 +1,30 @@
+.nav{
+    position: sticky;
+    top: 0px;
+}
+
+.nav-container {
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+.cart-cta {
+    color:#fff;
+    background-color: rgb(12, 131, 31);
+    border-radius: 8px;
+    cursor: pointer;
+    height: 52px;
+    width: 112px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    opacity: 1;
+    border:none;
+    font-weight: 600;
+}

@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+p{
+  margin: 0;
+}
+.mauto{
+  margin: auto;
+}
+.w100{
+  width: 100%;
+}
+.text-left{
+  text-align: left;
+}
+.dflex{
+  display: flex;
+}
+.justify-center{
+  justify-content: center;
+}
+.justify-between{
+  justify-content: space-between;
+}
+.listing-page{
+  padding: 48px 20px;
+}
+.product-detail{
+  padding: 0 20px;
+}
+
